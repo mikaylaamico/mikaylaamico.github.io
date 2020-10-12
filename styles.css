@@ -13,6 +13,7 @@ body {
 .assignment img {
     width:200px;
     padding:10px;
+    border: 2px solid #80BF42;
 }
 
 }
@@ -24,5 +25,5 @@ h1 {
 
 a {
     text-decoration:none;
-    color:#E7E4DD;
+    color:white;
 }
