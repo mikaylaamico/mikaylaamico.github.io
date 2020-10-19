@@ -1,5 +1,5 @@
 body {
-    background:lightgrey;
+    background: lightgray;
     font-family:Arial, Helvetica, sans-serif;
 }  
 
@@ -7,14 +7,17 @@ body {
     display:flex;
     padding:10px;
     margin:10px;
-    background:lightgreen;
+    margin-bottom: 30px;
+    background: pink;
+    border-radius:5px;
+    box-shadow: 5px 8px darkred;
 }
 
 .assignment img {
     width:200px;
-    padding: 2px;
     border: 2px solid black;
     margin-right: 20px;
+    border-radius:5px;
 }
 
 }
@@ -27,5 +30,9 @@ h1 {
 
 a {
     text-decoration:none;
-    color:white;
+    color: black;
+}
+
+.assignment a:hover {
+    color: white;
 }
